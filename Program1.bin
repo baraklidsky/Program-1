@@ -1,0 +1,15 @@
+;; 
+;; Program 1 
+;; Name: (fill in name here)
+;; EID: (fill in EID here)
+;; 
+;; This program should be done only in machine language (binary)
+;; 
+ 
+0011000000000000 ;; .ORIG 0x3000 
+
+;; Add code here
+
+1111000000100101 ;; HALT
+
+;; Any additional data can go here
